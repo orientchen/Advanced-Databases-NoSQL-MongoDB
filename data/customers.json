@@ -1,0 +1,7 @@
+[
+ {"_id":101,"name":"Ava Chen","city":"Kenosha","email":"ava@example.edu","interests":["books","electronics"],"address":{"state":"WI","zip":"53140"}},
+ {"_id":102,"name":"Ben Rivera","city":"Racine","email":"ben@example.edu","interests":["sports"],"address":{"state":"WI","zip":"53403"}},
+ {"_id":103,"name":"Cara Patel","city":"Kenosha","email":"cara@example.edu","interests":["books","home"],"address":{"state":"WI","zip":"53142"}},
+ {"_id":104,"name":"Drew Kim","city":"Milwaukee","email":"drew@example.edu","interests":["electronics","sports"],"address":{"state":"WI","zip":"53202"}},
+ {"_id":105,"name":"Elena Moore","city":"Racine","email":"elena@example.edu","interests":["home"],"address":{"state":"WI","zip":"53402"}}
+]

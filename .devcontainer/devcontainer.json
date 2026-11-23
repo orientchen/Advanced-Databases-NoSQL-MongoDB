@@ -1,0 +1,9 @@
+{
+  "name": "MongoDB Classroom Lab",
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu-24.04",
+  "features": {"ghcr.io/devcontainers/features/docker-in-docker:2": {}},
+  "postCreateCommand": "bash scripts/setup.sh",
+  "forwardPorts": [27017],
+  "portsAttributes": {"27017": {"label": "MongoDB (local only)", "onAutoForward": "ignore"}},
+  "customizations": {"vscode": {"extensions": ["mongodb.mongodb-vscode"]}}
+}

@@ -1,0 +1,8 @@
+[
+ {"_id":5001,"customerId":101,"status":"shipped","orderDate":"2026-10-03","items":[{"sku":"B01","name":"Database Book","qty":1,"price":65},{"sku":"E01","name":"USB Drive","qty":2,"price":12}],"total":89},
+ {"_id":5002,"customerId":102,"status":"pending","orderDate":"2026-10-04","items":[{"sku":"S01","name":"Water Bottle","qty":2,"price":18}],"total":36},
+ {"_id":5003,"customerId":103,"status":"shipped","orderDate":"2026-10-05","items":[{"sku":"B01","name":"Database Book","qty":1,"price":65}],"total":65},
+ {"_id":5004,"customerId":101,"status":"pending","orderDate":"2026-10-06","items":[{"sku":"E02","name":"Mouse","qty":1,"price":24}],"total":24},
+ {"_id":5005,"customerId":104,"status":"shipped","orderDate":"2026-10-07","items":[{"sku":"E01","name":"USB Drive","qty":3,"price":12}],"total":36},
+ {"_id":5006,"customerId":105,"status":"cancelled","orderDate":"2026-10-08","items":[{"sku":"H01","name":"Lamp","qty":1,"price":40}],"total":40}
+]
